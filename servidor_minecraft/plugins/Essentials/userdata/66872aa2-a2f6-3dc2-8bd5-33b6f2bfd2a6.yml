@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.100.207.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783921903877
+  login: 1783921524616
+money: '0'
+last-account-name: one_dark01
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: 158.60553200320444
+  y: 61.0
+  z: -23.544775421059143
+  yaw: 174.7499237060547
+  pitch: 68.10000610351562

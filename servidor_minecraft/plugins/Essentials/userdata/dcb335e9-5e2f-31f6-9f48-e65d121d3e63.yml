@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.132.220.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784687469314
+  login: 1784686845061
+money: '0'
+last-account-name: PALITO1987
+logoutlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: 386.37230265421914
+  y: 68.0
+  z: -67.68088378888336
+  yaw: -60.24884033203125
+  pitch: -23.77043342590332

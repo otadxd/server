@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.241.192.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783921134229
+  login: 1783921024525
+money: '0'
+last-account-name: .iDatoo
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: 158.03528
+  y: 66.0
+  z: 15.699989988079071
+  yaw: -13.012451171875
+  pitch: 33.32757568359375

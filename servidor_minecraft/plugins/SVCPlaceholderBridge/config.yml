@@ -1,0 +1,21 @@
+# =========================================================
+#  SVC Placeholder Bridge - config.yml
+# =========================================================
+
+# Ícones retornados pelo placeholder %svcstatus_icon%
+icons:
+  speaking: "😘"      # jogador está falando agora
+  whispering: "◡"     # jogador está susurrando agora
+  quiet: "◡"          # conectado ao voice chat, mas quieto
+  disabled: "☧"       # jogador desativou o voice chat
+  not_installed: "☧"  # jogador não tem o mod / nunca conectou
+
+# Depois de quantos milissegundos sem receber pacote de microfone
+# o jogador deixa de ser considerado "falando".
+# Valores muito baixos deixam o ícone "piscando"; valores muito altos
+# deixam o ícone de falando "grudado" por mais tempo depois que a pessoa
+# já parou de falar.
+speaking-timeout-ms: 500
+
+# Se true, imprime no console quando a expansão é (re)carregada
+debug: false

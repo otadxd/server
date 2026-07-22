@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5768,
+      "minecraft:time_since_rest": 4378,
+      "minecraft:fall_one_cm": 2545,
+      "minecraft:walk_one_cm": 2094,
+      "minecraft:total_world_time": 4378,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 47689,
+      "minecraft:damage_taken": 70,
+      "minecraft:sneak_time": 72,
+      "minecraft:play_time": 4378,
+      "minecraft:jump": 50,
+      "minecraft:time_since_death": 4378
+    },
+    "minecraft:picked_up": {
+      "minecraft:poppy": 1,
+      "minecraft:oak_sapling": 1,
+      "minecraft:spruce_button": 1
+    },
+    "minecraft:used": {
+      "minecraft:poppy": 1
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 1,
+      "minecraft:poppy": 1
+    }
+  },
+  "DataVersion": 4790
+}

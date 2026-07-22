@@ -1,0 +1,84 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:stick": 12,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:oak_planks": 24
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 17106,
+      "minecraft:walk_one_cm": 44893,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 317,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 195,
+      "minecraft:play_time": 17106,
+      "minecraft:damage_dealt": 76,
+      "minecraft:jump": 163,
+      "minecraft:time_since_death": 17106,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 40587,
+      "minecraft:fall_one_cm": 1183,
+      "minecraft:total_world_time": 17106,
+      "minecraft:swim_one_cm": 2756,
+      "minecraft:fly_one_cm": 7562,
+      "minecraft:walk_on_water_one_cm": 460,
+      "minecraft:crouch_one_cm": 344,
+      "minecraft:sneak_time": 143
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:oak_wood": 6,
+      "minecraft:dirt": 3,
+      "minecraft:stick": 9,
+      "minecraft:cobblestone": 23,
+      "minecraft:mangrove_roots": 2,
+      "minecraft:feather": 2,
+      "minecraft:chicken": 1,
+      "minecraft:leather": 1,
+      "minecraft:red_tulip": 1,
+      "minecraft:oak_sapling": 8,
+      "minecraft:beef": 1,
+      "minecraft:apple": 1,
+      "minecraft:leaf_litter": 8,
+      "minecraft:string": 2,
+      "minecraft:oak_log": 59,
+      "minecraft:firefly_bush": 1,
+      "minecraft:mossy_cobblestone": 1,
+      "minecraft:wheat_seeds": 10
+    },
+    "minecraft:used": {
+      "minecraft:leaf_litter": 4,
+      "minecraft:wooden_axe": 1,
+      "minecraft:apple": 1,
+      "minecraft:red_tulip": 1,
+      "minecraft:wooden_pickaxe": 30,
+      "minecraft:oak_sapling": 4,
+      "minecraft:cobblestone": 6
+    },
+    "minecraft:dropped": {
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_sapling": 4
+    },
+    "minecraft:mined": {
+      "minecraft:firefly_bush": 1,
+      "minecraft:tall_grass": 61,
+      "minecraft:mangrove_roots": 2,
+      "minecraft:dirt": 2,
+      "minecraft:red_tulip": 1,
+      "minecraft:mossy_cobblestone": 1,
+      "minecraft:podzol": 1,
+      "minecraft:leaf_litter": 2,
+      "minecraft:oak_log": 5,
+      "minecraft:cobblestone": 5,
+      "minecraft:stone": 19
+    },
+    "minecraft:killed": {
+      "minecraft:chicken": 1,
+      "minecraft:cow": 1
+    }
+  },
+  "DataVersion": 4790
+}

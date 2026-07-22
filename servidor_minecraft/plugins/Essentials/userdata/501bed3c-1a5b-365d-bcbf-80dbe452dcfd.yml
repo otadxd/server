@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.68.53.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784685495059
+  login: 1784685457466
+money: '0'
+last-account-name: SerraG26
+logoutlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: 133.632718250345
+  y: 62.92159999847412
+  z: -18.599364548542493
+  yaw: -14.582611083984375
+  pitch: 13.058377265930176

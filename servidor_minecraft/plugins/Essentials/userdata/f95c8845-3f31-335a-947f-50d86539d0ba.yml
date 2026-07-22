@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.129.111.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784685483541
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784685585712
+  login: 1784685366722
+money: '0'
+last-account-name: soziadomaxx__
+lastlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: 111.87914869941612
+  y: 76.0
+  z: -44.16284597228202
+  yaw: 125.65550231933594
+  pitch: 13.806451797485352
+logoutlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: -693.0414085597774
+  y: 122.0
+  z: 364.04320606920703
+  yaw: -79.38592529296875
+  pitch: -17.83228302001953

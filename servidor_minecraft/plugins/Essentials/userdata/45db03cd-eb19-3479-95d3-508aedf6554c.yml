@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.88.222.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783977935196
+  login: 1783977837006
+money: '0'
+last-account-name: Lyon_S2
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -641.4705443912261
+  y: 68.0
+  z: -741.6376725207472
+  yaw: 123.80782318115234
+  pitch: 12.987263679504395

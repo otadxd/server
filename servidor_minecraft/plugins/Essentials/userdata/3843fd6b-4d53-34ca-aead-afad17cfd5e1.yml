@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.159.9.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1783988431528
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783990692550
+  login: 1783990018122
+money: '0'
+last-account-name: davizin777_
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -468.0986232808392
+  y: -7.999079448422358
+  z: -278.81637580160947
+  yaw: -67.25839233398438
+  pitch: -1.8778117895126343
+last-message-reply-recipient: false
+lastlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -534.6064020759759
+  y: 83.0
+  z: -846.1307496575769
+  yaw: 3.7188358306884766
+  pitch: 59.564056396484375
+homes:
+  base:
+    world: 250e8812-99fc-413b-9b84-80357048068b
+    world-name: world
+    x: -86.75805107547859
+    y: -8.552044010565382
+    z: 10.12738180048529
+    yaw: -170.94091796875
+    pitch: 40.910762786865234

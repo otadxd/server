@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2513,
+      "minecraft:walk_one_cm": 4209,
+      "minecraft:leave_game": 4,
+      "minecraft:play_time": 2513,
+      "minecraft:jump": 27,
+      "minecraft:time_since_death": 2513,
+      "minecraft:drop": 8,
+      "minecraft:sprint_one_cm": 1932,
+      "minecraft:fall_one_cm": 2313,
+      "minecraft:total_world_time": 2513,
+      "minecraft:fly_one_cm": 6498,
+      "minecraft:walk_on_water_one_cm": 52,
+      "minecraft:sneak_time": 23
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_sapling": 4
+    },
+    "minecraft:dropped": {
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_sapling": 4
+    }
+  },
+  "DataVersion": 4790
+}

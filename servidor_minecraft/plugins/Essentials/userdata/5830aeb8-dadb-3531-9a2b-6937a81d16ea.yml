@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.250.192.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1783973971030
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783974275498
+  login: 1783973919986
+money: '0'
+last-account-name: Mathoso202
+lastlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -732.0471759900624
+  y: 67.0
+  z: -788.385639062731
+  yaw: -65.68011474609375
+  pitch: -2.8779194355010986
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: 707.2579798722581
+  y: 65.0
+  z: -672.3992715806945
+  yaw: 82.951416015625
+  pitch: -42.792022705078125

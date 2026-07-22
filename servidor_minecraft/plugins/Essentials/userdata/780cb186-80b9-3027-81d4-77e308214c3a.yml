@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.211.164.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1783923871408
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783924547179
+  login: 1783922618744
+money: '0'
+last-account-name: NeyXzin_33
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -544.4236262981702
+  y: 31.0
+  z: -45.005673471849505
+  yaw: 47.483489990234375
+  pitch: 19.921775817871094
+lastlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: 509.197982422394
+  y: 63.0
+  z: -236.96115910113994
+  yaw: 90.79473876953125
+  pitch: 20.975608825683594

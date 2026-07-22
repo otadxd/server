@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.69.73.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783976603296
+  login: 1783976168931
+money: '0'
+last-account-name: Nexus_hyt
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: 1171.0143402759818
+  y: 65.5625
+  z: -334.3281939047507
+  yaw: -16.499971389770508
+  pitch: 11.550004959106445

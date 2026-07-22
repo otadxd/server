@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.203.227.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784001977579
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784003794813
+  login: 1784001503289
+money: '0'
+last-account-name: LauraGamer
+lastlocation:
+  world: 34a8b532-ea31-4dd1-b74f-a56fe46742ec
+  world-name: world_nether
+  x: 120.69716204397082
+  y: 80.0
+  z: 49.22200322003866
+  yaw: 171.9974365234375
+  pitch: -38.70002365112305
+logoutlocation:
+  world: c6ad5771-ffa1-4e22-b3a2-ed4d04a39a64
+  world-name: world
+  x: 38.32298171357879
+  y: 70.0
+  z: -38.47865713948979
+  yaw: 146.10008239746094
+  pitch: 2.8500072956085205

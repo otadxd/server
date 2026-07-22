@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.234.248.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784097749088
+  login: 1784096756158
+money: '0'
+last-account-name: kikienpunga
+logoutlocation:
+  world: 102a4d00-6b67-4bf4-8cd8-897c71e0d437
+  world-name: world
+  x: -189.08654956790832
+  y: 1.0
+  z: 66.02683675180538
+  yaw: 32.4500732421875
+  pitch: -23.439613342285156

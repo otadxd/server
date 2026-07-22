@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.13.178.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784685388913
+  login: 1784684542315
+money: '0'
+last-account-name: jacksonTH
+logoutlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: 142.52030612456772
+  y: 65.0
+  z: -47.6808343309239
+  yaw: -106.4996337890625
+  pitch: 40.04999542236328

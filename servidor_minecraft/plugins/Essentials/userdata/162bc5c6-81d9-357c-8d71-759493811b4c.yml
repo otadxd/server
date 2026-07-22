@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.243.125.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784097748985
+  login: 1784095123025
+money: '0'
+last-account-name: binario0
+logoutlocation:
+  world: 102a4d00-6b67-4bf4-8cd8-897c71e0d437
+  world-name: world
+  x: 213.44287998047068
+  y: 64.0
+  z: -327.82167572611496
+  yaw: -57.921630859375
+  pitch: -1.500063419342041

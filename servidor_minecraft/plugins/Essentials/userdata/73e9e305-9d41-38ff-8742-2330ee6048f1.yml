@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.78.93.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784003820465
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783998136020
+  login: 1783998269339
+money: '0'
+last-account-name: elevenzzk
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -631.7041719808356
+  y: 70.0
+  z: -753.0953468399035
+  yaw: -6.83563232421875
+  pitch: 11.529796600341797
+lastlocation:
+  world: c6ad5771-ffa1-4e22-b3a2-ed4d04a39a64
+  world-name: world
+  x: 22.5
+  y: 67.0
+  z: -35.5
+  yaw: 4.862907886505127
+  pitch: -1.1765098571777344

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: true
+muted: false
+jailed: false
+ip-address: 127.23.74.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1784685844264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1784685870955
+  login: 1784682034753
+money: '0'
+last-account-name: iCachapa
+logoutlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: 285.99554795573073
+  y: 14.0
+  z: 84.50181961191956
+  yaw: 102.25836944580078
+  pitch: 27.546142578125
+lastlocation:
+  world: 9afe34d1-178a-4361-a6a2-f1818416e5be
+  world-name: world
+  x: 53.093631098587906
+  y: 70.0
+  z: -69.3194794708408
+  yaw: -135.94154357910156
+  pitch: 30.605772018432617

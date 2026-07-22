@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.144.136.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1783911761265
+  login: 1783911267928
+money: '0'
+last-account-name: bronotouch22
+logoutlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -401.97781320079986
+  y: 63.0
+  z: -1171.2470804029629
+  yaw: -129.4859619140625
+  pitch: 15.2999906539917
+lastlocation:
+  world: 250e8812-99fc-413b-9b84-80357048068b
+  world-name: world
+  x: -60.760310534302015
+  y: 64.0
+  z: -478.1058085091745
+  yaw: -99.13396453857422
+  pitch: 24.450037002563477
